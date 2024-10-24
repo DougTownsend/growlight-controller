@@ -1,0 +1,1 @@
+Uses DIP switches to read the red and white duty cycles.
